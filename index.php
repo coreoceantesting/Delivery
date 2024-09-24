@@ -1,6 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
 <?php
-
-echo "hii";
-print_r('hello');
-
+echo "My first PHP script!";
 ?>
+
+</body>
+</html>
