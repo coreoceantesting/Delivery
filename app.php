@@ -1,5 +1,5 @@
 <?php
 
-echo "This is app";
+echo "This is an new project";
 
 ?>
